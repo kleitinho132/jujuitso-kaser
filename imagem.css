@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(#16BEE2, #05090c);
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #270E11;
+    font-size: 4rem;
+    text-align: center;
+    text-shadow: 2px 2px #98A2A5;
+    font-family: jujutso kaisen;
+}
+
+img{
+    display: block;
+    margin: auto;
+    border: 12px groove #fff;
+    border-radius: 8px;
+    text-align: center;
+}
+
+p{
+    color: #ffffff;
+    font-size: 1.2rem;
+    background-color: #1290ac00;width: 80%;
+    margin: 1rem auto;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+
+@font-face {
+    font-family: "jujutso kaisen";
+    src: url('funts/aAnnyeongHaseyo.ttf');
+}
